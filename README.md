@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Nanda and I'm a Web Developer, from Indonesia</h2>
+
 
 ###
 
