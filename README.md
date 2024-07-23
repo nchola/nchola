@@ -37,7 +37,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <div style="display: inline-block; padding: 10px; border-radius: 12px; background-color: #282a36; color: #fff; font-family: Arial, sans-serif; margin-left: 10px;">
-    <span>Total Visitors: </span>
     <img src="https://komarev.com/ghpvc/?username=nchola&style=flat-square&color=brightgreen" alt="visitor count" />
   </div>
 </div>
