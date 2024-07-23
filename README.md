@@ -34,6 +34,9 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=nchola" alt="visitor badge"/>
+<div align="center" style="margin-top: 20px;">
+  <div style="display: inline-block; padding: 10px; border-radius: 12px; background-color: #282a36; color: #fff; font-family: Arial, sans-serif;">
+    <span>Total Visitors: </span>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=nchola&right_color=brightgreen&left_text=" alt="visitor badge" style="vertical-align: middle;"/>
+  </div>
 </div>
