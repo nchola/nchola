@@ -38,3 +38,7 @@
     <img src="https://komarev.com/ghpvc/?username=nchola&style=flat-square&color=brightgreen" alt="visitor count" />
   </div>
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nchola/nchola/output/snake.svg" alt="Snake animation" />
