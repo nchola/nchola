@@ -51,7 +51,7 @@
 </div>
 
 <details>
-<summary align="center"><i>Unravel the secrets of modern frontend transmutation...</i></summary>
+<summary align="center"><i>Unravel the secrets of modern transmutation...</i></summary>
 
 <div align="center">
   <br>
@@ -71,10 +71,6 @@
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Wave_Manifestations-8B7D6B?style=flat-square" alt="Wave Manifestations"></td>
       <td><i>Undulating patterns via CSS/SVG/JavaScript sorcery</i></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Particle_Conjuring-8B7D6B?style=flat-square" alt="Particle Conjuring"></td>
-      <td><i>Dynamic particles through Three.js or particles.js invocations</i></td>
     </tr>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/GSAP_(GreenSock)-8B7D6B?style=flat-square" alt="GSAP"></td>
