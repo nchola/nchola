@@ -1,6 +1,6 @@
 <!-- TITLE & HEADER SECTION with Animated Title Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=4000&pause=1000&color=8B7D6B&center=true&vCenter=true&random=false&width=435&lines=Scriptorium+of+Code;The+Chronicles+of+Nchola;Digital+Alchemy;Frontend+Sorcery" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=30&duration=4000&pause=1000&color=8B7D6B&center=true&vCenter=true&random=false&width=435&lines=Scriptorium+of+Code;The+Chronicles+of+Nchola;Digital+Alchemy;Void+Sorcery" />
 </div>
 
 <p align="center"><i>"In the grand library of algorithms, we are but humble scholars."</i></p>
