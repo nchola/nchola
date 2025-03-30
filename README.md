@@ -6,14 +6,6 @@
 <p align="center"><i>"In the grand library of algorithms, we are but humble scholars."</i></p>
 
 <!-- STATS CARDS with Glass Morphism Effect using Custom Parameters -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nchola&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&custom_title=Arcane%20Knowledge%20Acquired&bg_color=2D292630&title_color=8B7D6B&icon_color=8B7D6B&border_radius=10" height="165" alt="stats graph" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nchola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&custom_title=Tomes%20of%20Wisdom%20Deciphered&bg_color=2D292630&title_color=8B7D6B&border_radius=10" height="165" alt="languages graph" />
-  </a>
-</div>
 
 <!-- ANIMATED DIVIDER -->
 <div align="center">
