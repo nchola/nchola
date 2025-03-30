@@ -120,17 +120,6 @@
   <p><b><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=1&pause=1000&color=8B7D6B&center=true&vCenter=true&repeat=false&random=false&width=700&lines=%F0%9D%94%97%F0%9D%94%A5%F0%9D%94%A2+%F0%9D%94%89%F0%9D%94%AF%F0%9D%94%A6%F0%9D%94%AA%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%A2%F0%9D%94%B3%F0%9D%94%9E%F0%9D%94%A9+%F0%9D%94%84%F0%9D%94%AF%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%A3%F0%9D%94%9E%F0%9D%94%A0%F0%9D%94%B1%F0%9D%94%B0" alt="The Primeval Artifacts" /></b></p>
 </div>
 
-<!-- Repository Display - Update with your actual repositories -->
-<div align="center">
-  <!-- Replace with your actual repositories -->
-  <a href="https://github.com/nchola/your-first-actual-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchola&repo=your-first-actual-repo&theme=gruvbox&hide_border=true&bg_color=2D292630&title_color=8B7D6B&icon_color=8B7D6B&border_radius=15" />
-  </a>
-  <a href="https://github.com/nchola/your-second-actual-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchola&repo=your-second-actual-repo&theme=gruvbox&hide_border=true&bg_color=2D292630&title_color=8B7D6B&icon_color=8B7D6B&border_radius=15" />
-  </a>
-</div>
-
 <!-- COSMIC DIVIDER -->
 <div align="center">
   <hr style="height: 3px; background-color: #8B7D6B; border: none;">
