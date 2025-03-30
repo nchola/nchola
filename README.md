@@ -26,7 +26,7 @@
 
 <!-- COSMIC DIVIDER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="100%" />
+  <hr style="height: 3px; background-color: #8B7D6B; border: none;">
 </div>
 
 <!-- TECHNOLOGIES SECTION with Hover Animation & Improved Layout -->
@@ -120,18 +120,20 @@
   <p><b><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=1&pause=1000&color=8B7D6B&center=true&vCenter=true&repeat=false&random=false&width=700&lines=%F0%9D%94%97%F0%9D%94%A5%F0%9D%94%A2+%F0%9D%94%89%F0%9D%94%AF%F0%9D%94%A6%F0%9D%94%AA%F0%9D%94%9E%F0%9D%94%B1%F0%9D%94%A2%F0%9D%94%B3%F0%9D%94%9E%F0%9D%94%A9+%F0%9D%94%84%F0%9D%94%AF%F0%9D%94%B1%F0%9D%94%A6%F0%9D%94%A3%F0%9D%94%9E%F0%9D%94%A0%F0%9D%94%B1%F0%9D%94%B0" alt="The Primeval Artifacts" /></b></p>
 </div>
 
+<!-- Repository Display - Update with your actual repositories -->
 <div align="center">
-  <a href="https://github.com/nchola/your-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchola&repo=repository-1&theme=gruvbox&hide_border=true&bg_color=2D292630&title_color=8B7D6B&icon_color=8B7D6B&border_radius=15" />
+  <!-- Replace with your actual repositories -->
+  <a href="https://github.com/nchola/your-first-actual-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchola&repo=your-first-actual-repo&theme=gruvbox&hide_border=true&bg_color=2D292630&title_color=8B7D6B&icon_color=8B7D6B&border_radius=15" />
   </a>
-  <a href="https://github.com/nchola/your-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchola&repo=repository-2&theme=gruvbox&hide_border=true&bg_color=2D292630&title_color=8B7D6B&icon_color=8B7D6B&border_radius=15" />
+  <a href="https://github.com/nchola/your-second-actual-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nchola&repo=your-second-actual-repo&theme=gruvbox&hide_border=true&bg_color=2D292630&title_color=8B7D6B&icon_color=8B7D6B&border_radius=15" />
   </a>
 </div>
 
 <!-- COSMIC DIVIDER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/golden.png" width="100%" />
+  <hr style="height: 3px; background-color: #8B7D6B; border: none;">
 </div>
 
 <!-- CONTACT SECTION with Enhanced Glassmorphism Effect -->
@@ -164,11 +166,7 @@
 <!-- SNAKE ANIMATION with Enhanced Styling -->
 <div align="center">
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nchola/nchola/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nchola/nchola/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nchola/nchola/output/snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/nchola/nchola/output/snake.svg" alt="github contribution grid snake animation">
 </div>
 
 <!-- FOOTER -->
