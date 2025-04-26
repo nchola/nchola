@@ -164,8 +164,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B7D6B&height=100&section=footer" width="100%" />
   <p><i>"The pen is mightier than the sword, but the keyboard is mightier still.<br>
   And in the void between keystrokes, true magic manifests."</i></p>
-  
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=18&pause=1000&color=8B7D6B&center=true&vCenter=true&random=false&width=435&lines=∞+The+Void+Beckons+∞" alt="Footer Text" />
-  </div>
+
 </div>
