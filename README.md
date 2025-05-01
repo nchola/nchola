@@ -132,18 +132,14 @@
 
 <!-- Social Links with Enhanced Hover Animation -->
 <div align="center">
-  <a href="mailto:nchola@mhs.mdp.ac.id" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D2926&color=483C32" height="35" alt="Gmail" />
-  </a>
+  
   <a href="https://www.instagram.com/nndncholaa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2D2926&color=483C32" height="35" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/nchola/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D2926&color=483C32" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://wa.link/5dp8wb" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2D2926&color=483C32" height="35" alt="WhatsApp" />
-  </a>
+  
 </div>
 
 <!-- VISITOR COUNT with Dynamic Loading Animation -->
